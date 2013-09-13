@@ -1,5 +1,5 @@
 ##The AntoPlan:
 
-Stop making fake business plans.
+Stop stending pull requests on fake business plans.
 
 Start working on your demo.
